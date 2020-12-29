@@ -1,6 +1,4 @@
 # Graça e Paz ! <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/Hi.gif" width="30px">
-
-<img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/cabecalho.png">
   
  <table align="center">
   <tr>
