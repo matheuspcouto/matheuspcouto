@@ -3,6 +3,8 @@
 <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/cabecalho.png">
   
  <table align="center">
+  <tr>
+    <td colspan="2"><img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/cabecalho.png"></td>
     <tr>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPcouto10&hide=html&layout=compact&theme=gruvbox" /></td>
     <td><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=MatheusPcouto10&theme=gruvbox"/></td>
