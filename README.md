@@ -54,7 +54,7 @@
 
 ---
 
-# :headphones: O que estou Ouvindo
+# :headphones: Ouvindo...
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12164155915&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12164155915&redirect=true)
 
