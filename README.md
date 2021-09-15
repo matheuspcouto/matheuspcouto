@@ -62,5 +62,5 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=MatheusPcouto10&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=MatheusPcouto10&color=blue&style=flat&label=Visitas)
 
