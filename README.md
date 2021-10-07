@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/bitbucket%20-%2300f.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jenkins%20-%23121011.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
         </p></td>
     </tr> 
  </table>
@@ -47,8 +47,6 @@
 # :globe_with_meridians: Redes Sociais
 
   - <a href="https://www.linkedin.com/in/matheuspcouto/"><img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/linkedin.png" width="16"></img></a> [In/matheuspcouto](https://www.linkedin.com/in/matheuspcouto/)
-  
-  - <a href="https://www.instagram.com/matheuspcouto/?hl=pt-br"><img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/instagram.png" width="16"></img></a> [@matheuspcouto](https://www.instagram.com/matheuspcouto/?hl=pt-br)
   
   - <a href="https://api.whatsapp.com/send?phone=5563992014337"><img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/whatsapp.png" width="16"></img></a> [(63) 99201-4337](https://api.whatsapp.com/send?phone=5563992014337)
   
