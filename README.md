@@ -1,4 +1,4 @@
-# Graça e Paz ! <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/Hi.gif" width="30px">
+# Hello World ! <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/Hi.gif" width="30px">
   
  <table align="center">
   <tr>
@@ -9,7 +9,7 @@
     </tr> 
  </table>
 
-# :computer: Habilidades
+# :computer: Skills
 
 <table align="center">
     <tr>
@@ -28,13 +28,13 @@
 </p></td>
   </tr>
       <tr>
-      <td><h3>Banco de Dados</h3>
+      <td><h3>Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=white&style=for-the-badge"/>
         </p></td>
-      <td><h3>Ferramentas</h3>
+      <td><h3>Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
@@ -44,7 +44,7 @@
     </tr> 
  </table>
 
-# :globe_with_meridians: Redes Sociais
+# :globe_with_meridians: Contact
 
   - <a href="https://www.linkedin.com/in/matheuspcouto/"><img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/linkedin.png" width="16"></img></a> [In/matheuspcouto](https://www.linkedin.com/in/matheuspcouto/)
   
@@ -54,11 +54,11 @@
 
 ---
 
-# :headphones: Ouvindo...
+# :headphones: Listen...
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12164155915&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12164155915&redirect=true)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=MatheusPcouto10&color=blue&style=flat&label=Visitas)
+![](https://komarev.com/ghpvc/?username=MatheusPcouto10&color=blue&style=flat&label=Visits)
 
