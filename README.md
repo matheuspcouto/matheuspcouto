@@ -46,11 +46,11 @@
 
 # :globe_with_meridians: Contact
 
-  - <a href="https://www.linkedin.com/in/matheuspcouto/"><img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/linkedin.png" width="16"></img></a> [In/matheuspcouto](https://www.linkedin.com/in/matheuspcouto/)
+ - <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/linkedin.png" width="16"></img> [In/matheuspcouto](https://www.linkedin.com/in/matheuspcouto/)
   
-  - <a href="https://api.whatsapp.com/send?phone=5563992014337"><img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/whatsapp.png" width="16"></img></a> [(63) 99201-4337](https://api.whatsapp.com/send?phone=5563992014337)
+  - <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/whatsapp.png" width="16"></img> [(63) 99201-4337](https://api.whatsapp.com/send?phone=5563992014337)
   
-  - <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRQCBCdgmVkcsctSHvzrRwtgGSmWvxrpShsmCfgtLJzwPxcDgqkcjVLlnSzKGbZXPnhVSF"><img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/gmail.png" width="16"></img></a> [matheuspcouto70@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRQCBCdgmVkcsctSHvzrRwtgGSmWvxrpShsmCfgtLJzwPxcDgqkcjVLlnSzKGbZXPnhVSF)
+  - <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/gmail.png" width="16"></img> matheuspcouto70@gmail.com
 
 ---
 
