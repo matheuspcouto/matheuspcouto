@@ -54,11 +54,5 @@
 
 ---
 
-# :headphones: Listen...
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12164155915&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12164155915&redirect=true)
-
----
-
 ![](https://komarev.com/ghpvc/?username=MatheusPcouto10&color=blue&style=flat&label=Visits)
 
