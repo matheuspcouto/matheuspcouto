@@ -1,58 +1,95 @@
-# Hello World ! <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/Hi.gif" width="30px">
-  
- <table align="center">
-  <tr>
-    <td colspan="2"><img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/capa.png"></td>
-    <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPcouto10&hide=html&layout=compact&theme=gruvbox" /></td>
-    <td><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=MatheusPcouto10&theme=gruvbox"/></td>
-    </tr> 
- </table>
+# <div align="center">Hello World ! <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/Hi.gif" width="30px"/> I'm Matheus, a Full-Stack Developer 👨‍💻🚀 </div>
 
-# :computer: Skills
+_<div align="center">🏢 I’m currently working on Capgemini Brazil S/A </div>_
 
-<table align="center">
-    <tr>
-    <td><h3>Back-end</h3>
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-      </td>
-    <td><h3>Front-end</h3>
-<p>
-  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript%20-%23563D7C.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-</p></td>
-  </tr>
-      <tr>
-      <td><h3>Databases</h3>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=white&style=for-the-badge"/>
-        </p></td>
-      <td><h3>Tools</h3>
-<p>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bitbucket%20-%2300f.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jenkins%20-%23121011.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
-        </p></td>
-    </tr> 
- </table>
+_<div align="center">🧑‍🎓 Graduated in Information Systems</div>_
+
+_<div align="center">⚡ Let's code a better world !</div>_
+
+ <div align="center">
+    <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPcouto10&hide=html&layout=compact&bg_color=0D1117&title_color=FFEB00&text_color=BC7D10&hide_border=true" />
+    <img align="center"  height="188" src="https://github-readme-streak-stats.herokuapp.com?user=matheuspcouto10&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&sideLabels=BC7D10&ring=FFEB00&stroke=BC7D10&fire=DD2727&currStreakNum=DD2727&currStreakLabel=DD2727&dates=BC7D10&sideNums=DD2727" alt="matheuspcouto10" />
+ </div>
+
+<br/>
+
+</td></tr></table style="border: none">
+
+<br/>
+
+# :computer: My Skills
+
+<div align="center">
+    
+      
+<div align="center">  
+<h2><b>Back-end</b></h2>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+</div>
+
+<br>
+
+<div align="center">  
+<h2><b>Front-end</b></h2>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
+</div>
+
+<br>
+
+<div align="center">  
+<h2><b>Databases</b></h2>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+</div>
+
+<br>
+
+<div align="center">  
+<h2><b>DevOps and Tools</b></h2>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> </a>
+</div>
+
+ </div>
 
 # :globe_with_meridians: Contact
 
- - <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/linkedin.png" width="16"></img> [In/matheuspcouto](https://www.linkedin.com/in/matheuspcouto/)
-  
-  - <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/whatsapp.png" width="16"></img> [(63) 99201-4337](https://api.whatsapp.com/send?phone=5563992014337)
-  
-  - <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/gmail.png" width="16"></img> matheuspcouto70@gmail.com
+<div align="left">
+<div>
+<img src=https://img.shields.io/badge/matheuspcouto70@gmail.com-%23F85143.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
+<div>
+<a href="https://linkedin.com/in/matheuspcouto" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
+<div>
+<a href="https://instagram.com/matheuspcouto" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23450034.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
+</div> 
+<div>
+<a href="https://t.me/MatheusPcouto" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=9cf alt=telegram style="margin-bottom: 5px;" />
+</a> 
+</div> 
+</div>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=MatheusPcouto10&color=blue&style=flat&label=Visits)
-
+![](https://komarev.com/ghpvc/?username=MatheusPcouto10&color=blue&style=for-the-badge&label=Visits)
