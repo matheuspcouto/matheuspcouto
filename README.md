@@ -1,4 +1,4 @@
-# <div align="center">Hello World ! <img src="https://github.com/MatheusPcouto10/MatheusPcouto10/blob/main/imagens-github-profile/Hi.gif" width="30px" height="30px"/> I'm Matheus, a Full-Stack Developer 👨‍💻🚀 </div>
+# <div align="center">Hello World ! <img src="https://github.com/matheuspcouto/matheuspcouto/blob/main/imagens-github-profile/Hi.gif" width="30px" height="30px"/> I'm Matheus, a Full-Stack Developer 👨‍💻🚀 </div>
 
 _<div align="center">🏢 I’m currently working on Capgemini Brazil S/A </div>_
 
@@ -7,8 +7,8 @@ _<div align="center">🧑‍🎓 Graduated in Information Systems</div>_
 _<div align="center">⚡ Let's code a better world !</div>_
 
  <div align="center" >
-    <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPcouto10&hide=html&layout=compact&bg_color=0D1117&title_color=FFEB00&text_color=BC7D10&hide_border=true" />
-    <img align="center" width="360" height="188" src="https://github-readme-streak-stats.herokuapp.com?user=matheuspcouto10&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&sideLabels=BC7D10&ring=FFEB00&stroke=BC7D10&fire=DD2727&currStreakNum=DD2727&currStreakLabel=DD2727&dates=BC7D10&sideNums=DD2727" alt="matheuspcouto10" />
+    <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspcouto&hide=html&layout=compact&bg_color=0D1117&title_color=FFEB00&text_color=BC7D10&hide_border=true" />
+    <img align="center" width="360" height="188" src="https://github-readme-streak-stats.herokuapp.com?user=matheuspcouto&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&sideLabels=BC7D10&ring=FFEB00&stroke=BC7D10&fire=DD2727&currStreakNum=DD2727&currStreakLabel=DD2727&dates=BC7D10&sideNums=DD2727" alt="matheuspcouto" />
  </div>
 
 <br/>
