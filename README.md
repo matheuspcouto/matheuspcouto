@@ -10,9 +10,9 @@ _<div align="center"> With skills communicative, creative and organizational, I 
 
 _<div align="center"> In addition to my development work, I play an active role as leader of a youth cell and a visual communication ministry. In these activities, I apply my passion for leadership and creativity to inspire and motivate teams to achieve their goals, always seeking to positively impact other people's lives. </div>_
 
+_<div align="center"> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspcouto&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/> </div>_
 _<div align="center"> ![](https://github-readme-stats.vercel.app/api?username=matheuspcouto&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/> </div>_
 _<div align="center"> ![](https://github-readme-streak-stats.herokuapp.com/?user=matheuspcouto&theme=blue-green&hide_border=true)<br/> </div>_
-_<div align="center"> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspcouto&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/> </div>_
 
 <br/>
 
