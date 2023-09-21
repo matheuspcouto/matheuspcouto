@@ -4,9 +4,9 @@ _<div align="center">🏢 I’m currently working on Capgemini Brazil S/A </div>
 
 _<div align="center">🧑‍🎓 Graduated in Information Systems</div>_
 
-_<div align="center"> I'm a Fullstack Developer with a bachelor in Information Systems. My passion for technology and innovation led me to work mainly with Java and Angular stacks, collaborating on large-scale projects in the banking and financial sector, such as Pix systems, Open Finance and Mobile Recharges. </div>_
+_<div align="center"> I'm a Fullstack Developer with a bachelor in Information Systems.  My passion for technology has led me to work mainly with Java and Angular stacks over the last 3 years, collaborating on large-scale projects in the banking and financial sector, such as Pix systems, Open Finance, Cell phone top-ups and Public Administration Collection. With my communicative, creative and organizational skills, I am always looking for innovative and effective solutions to the challenges I encounter in each project. </div>_
 
-_<div align="center"> With skills communicative, creative and organizational, I am always looking for innovative solutions to the challenges I encounter in each project. During my graduation, I had the opportunity to complete my course with a perfect grade in my TCC, where I developed a web application focused on accessibility for diverse audiences, incorporating advanced UX/UI features to ensure an inclusive and engaging experience. </div>_
+_<div align="center"> During my graduation, I had the opportunity to complete my course with a perfect grade in my TCC, where I developed a web application aimed at the Methodist Church in Palmas with a focus on accessibility for its different audiences, incorporating advanced UX/UI resources to guarantee an experience inclusive and engaging. </div>_
 
 _<div align="center"> In addition to my development work, I play an active role as leader of a youth cell and a visual communication ministry. In these activities, I apply my passion for leadership and creativity to inspire and motivate teams to achieve their goals, always seeking to positively impact other people's lives. </div>_
 
