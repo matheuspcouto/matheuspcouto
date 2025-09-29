@@ -1,10 +1,10 @@
 # <div align="center">Hello World ! <img src="https://github.com/matheuspcouto/matheuspcouto/blob/main/imagens-github-profile/Hi.gif" width="30px" height="30px"/> I'm Matheus, a Fullstack Developer 👨‍💻🚀 </div>
 
-_<div align="center">🏢 I’m currently working on Capgemini Brazil S/A </div>_
+_<div align="center">🏢 I’m currently working on NAVA </div>_
 
 _<div align="center">🧑‍🎓 Graduated in Information Systems</div>_
 
-_<div align="center"> I'm a Fullstack Developer with a bachelor in Information Systems.  My passion for technology has led me to work mainly with Java and Angular stacks over the last 3 years, collaborating on large-scale projects in the banking and financial sector, such as Pix systems, Open Finance, Cell phone top-ups and Public Administration Collection. With my communicative, creative and organizational skills, I am always looking for innovative and effective solutions to the challenges I encounter in each project. </div>_
+_<div align="center"> I'm a Fullstack Developer with a bachelor in Information Systems.  My passion for technology has led me to work mainly with Java and Angular stacks over the last 4 years, collaborating on large-scale projects in the banking and financial sector, such as Pix systems, Open Finance, Cell phone top-ups and Public Administration Collection. With my communicative, creative and organizational skills, I am always looking for innovative and effective solutions to the challenges I encounter in each project. </div>_
 
 _<div align="center"> During my graduation, I had the opportunity to complete my course with a perfect grade in my TCC, where I developed a web application aimed at the Methodist Church in Palmas with a focus on accessibility for its different audiences, incorporating advanced UX/UI resources to guarantee an experience inclusive and engaging. </div>_
 
