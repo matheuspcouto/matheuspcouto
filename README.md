@@ -1,18 +1,28 @@
-# <div align="center">Hello World ! <img src="https://github.com/matheuspcouto/matheuspcouto/blob/main/imagens-github-profile/Hi.gif" width="30px" height="30px"/> I'm Matheus, a Full-stack Software Engineer 👨‍💻🚀 </div>
+_<div align="center"> <h1> Hello World ! <img src="https://github.com/matheuspcouto/matheuspcouto/blob/main/imagens-github-profile/Hi.gif" width="30px" height="30px"/> </h1> </div>_
+
+_<div align="center"> <h1> I'm Matheus, a Full-stack Software Engineer 👨‍💻🚀 </h1> </div>_
 
 _<div align="center">🏢 I’m currently working on NAVA </div>_
 
 _<div align="center">🧑‍🎓 Bachelor´s degree, Information Systems</div>_
 
-_<div align="center"> A Full-stack Software Engineer with solid knowledge of web and mobile application architecture and design. I have worked in software engineering for over five years, specializing in Java, Angular, and Node.js. </div>_
+<div align="center"> A Full-stack Software Engineer with solid knowledge of web and mobile application architecture and design. I have worked in software engineering for over five years, specializing in Java, Angular, and Node.js. </div>
 
-_<div align="center"> Over the years, I have supervised junior engineers through code reviews and mentoring, developed and collaborated on financial applications for Banco Bradesco (Pix, Open Finance, and Mobile Recharge), and led the technological evolution and refactoring of REST APIs in Java, Node, and Angular applications used by thousands of users in Brazil. During this period, I gained significant expertise in SOLID principles and Clean Code, applying them alongside hexagonal architecture and domain-driven design (DDD). </div>_
+<br>
 
-_<div align="center"> I implemented a feature to redesign and transform the visual identity of the Bradesco Pix application for individuals, bringing a significant improvement in user experience (UX/UI) and total control over Pix functionalities. </div>_
+<div align="center"> Over the years, I have supervised junior engineers through code reviews and mentoring, developed and collaborated on financial applications for Banco Bradesco (Pix, Open Finance, and Mobile Recharge), and led the technological evolution and refactoring of REST APIs in Java, Node, and Angular applications used by thousands of users in Brazil. During this period, I gained significant expertise in SOLID principles and Clean Code, applying them alongside hexagonal architecture and domain-driven design (DDD). </div>
 
-_<div align="center"> During my undergraduate studies, I had the opportunity to graduate with top marks for my final project, in which I developed a web application for the Methodist Church in Palmas, focusing on accessibility for its diverse audiences and incorporating advanced UX/UI features to ensure an inclusive and engaging experience. I continue to develop this project to this day, managing a team of engineers who assist me. </div>_
+<br>
 
-_<div align="center"> In addition to my work in development, I actively participate as a leader of a youth group and in a visual communication ministry. In these activities, I apply my passion for leadership and creativity to inspire and motivate teams to achieve their goals, always seeking to positively impact the lives of others. </div>_
+<div align="center"> I implemented a feature to redesign and transform the visual identity of the Bradesco Pix application for individuals, bringing a significant improvement in user experience (UX/UI) and total control over Pix functionalities. </div>
+
+<br>
+
+<div align="center"> During my undergraduate studies, I had the opportunity to graduate with top marks for my final project, in which I developed a web application for the Methodist Church in Palmas, focusing on accessibility for its diverse audiences and incorporating advanced UX/UI features to ensure an inclusive and engaging experience. I continue to develop this project to this day, managing a team of engineers who assist me. </div>
+
+<br>
+
+<div align="center"> In addition to my work in development, I actively participate as a leader of a youth group and in a visual communication ministry. In these activities, I apply my passion for leadership and creativity to inspire and motivate teams to achieve their goals, always seeking to positively impact the lives of others. </div>
 
 _<div align="center"> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspcouto&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/> </div>_
 _<div align="center"> ![](https://github-readme-stats.vercel.app/api?username=matheuspcouto&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/> </div>_
