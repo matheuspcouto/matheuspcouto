@@ -56,6 +56,8 @@ _<div align="center"> ![](https://github-readme-streak-stats.herokuapp.com/?user
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=yellow) 
+![Azure](https://img.shields.io/badge/Azure-%230A0FFF.svg?style=for-the-badge&logo=azure&logoColor=blue) 
 
 <br/>
 
