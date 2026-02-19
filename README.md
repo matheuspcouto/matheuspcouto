@@ -20,12 +20,6 @@ _<div align="center">🧑‍🎓 Bachelor´s degree, Information Systems</div>_
 
 <div align="center"> I am seeking international opportunities to contribute to global products, collaborate with multicultural teams, and drive scalable solutions with measurable impact. </div>
 
-<br>
-
-_<div align="center"> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspcouto&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/> </div>_
-_<div align="center"> ![](https://github-readme-stats.vercel.app/api?username=matheuspcouto&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/> </div>_
-_<div align="center"> ![](https://github-readme-streak-stats.herokuapp.com/?user=matheuspcouto&theme=blue-green&hide_border=true)<br/> </div>_
-
 <br/>
 
 # 💻 Skills:
