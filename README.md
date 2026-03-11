@@ -42,13 +42,6 @@ _<div align="center"> <h1> I'm Matheus, a Full-stack Software Engineer 👨💻�
 ![Jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=jira&logoColor=blue) 
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman) 
 
-<br/>
-
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheuspcouto)
 [![Gmail](https://img.shields.io/badge/matheuspcouto70@gmail.com-%23F85143.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuspcouto70@gmail.com)
-
-<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=matheuspcouto&icon=8&color=1)](https://visitcount.itsvg.in)
