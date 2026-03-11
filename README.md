@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hello World! <img src="https://github.com/matheuspcouto/matheuspcouto/blob/main/imagens-github-profile/Hi.gif" width="30px" height="30px"/></h1>
+<h1>Hello World! <img src="https://github.com/matheuspcouto/matheuspcouto/blob/main/assets/img/Hi.gif" width="30px" height="30px"/></h1>
 
 <h2>I'm Matheus, a Full-stack Software Engineer 👨‍💻🚀</h2>
 
