@@ -4,7 +4,16 @@
 
 <h2>I'm Matheus, a Full-stack Software Engineer 👨‍💻🚀</h2>
 
-![GitHub Metrics](https://raw.githubusercontent.com/matheuspcouto/matheuspcouto/main/github-metrics.svg)
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/matheuspcouto/matheuspcouto/main/github-metrics-stats.svg" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/matheuspcouto/matheuspcouto/main/github-metrics-activity.svg" alt="GitHub Activity" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
