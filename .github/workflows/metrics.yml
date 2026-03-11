@@ -22,7 +22,6 @@ jobs:
           template: classic
           base: activity
           config_timezone: America/Sao_Paulo
-          config_padding: 10
 
           filename: github-metrics-stats.svg
           output_action: commit
